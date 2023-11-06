@@ -1,0 +1,2 @@
+Prefix plugins/RANDOM/example/
+Plugin RANDOM inputfile parameters.txt outputfile output.txt
